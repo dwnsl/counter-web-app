@@ -1,3 +1,16 @@
+# Purpose of Project
+
+To learn react and the following:
+- How to use Props
+- Raising and handling Events
+- Lifting the State
+- Building react components and how they interact with each other
+- Lifecycle hooks
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
